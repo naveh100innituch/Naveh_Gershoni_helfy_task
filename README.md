@@ -18,7 +18,7 @@ Styling: Vanilla CSS (Custom Properties, Flexbox, Grid)
 
 Storage: Browser LocalStorage API
 
-📦 Installation & Setup
+*Installation & Setup*
 Clone the repository:
 
 Bash
